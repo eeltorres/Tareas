@@ -19,12 +19,11 @@ pertenece el mes con las siguientes condiciones:
 
 ## SOLUCION
 >
->
->>Primero pedimos al usuario que ingrese un numero entre 1 - 12
->>Validamos el dato ingresado con un prompt
->>Utilizo condiciones if para validar en que rango se encuentra el numero
->>Muestro una alerta con la estacion, segun sea el caso
->>Si no es entre 1 - 12, muestra una alerta: Dato invalido
->>Por ultimo muestro una alerta con mi nombre y carne
+- Primero pedimos al usuario que ingrese un numero entre 1 - 12
+- Validamos el dato ingresado con un prompt
+- Utilizo condiciones if para validar en que rango se encuentra el numero
+- Muestro una alerta con la estacion, segun sea el caso
+- Si no es entre 1 - 12, muestra una alerta: Dato invalido
+- Por ultimo muestro una alerta con mi nombre y carne
 
 
